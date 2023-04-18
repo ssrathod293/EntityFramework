@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="B20WinDBModelStoreContainer" CdmEntityContainer="B20WinDBContext">
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="B20WinDBModel.Role">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="B20WinDBModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="RegisteredDate" ColumnName="RegisteredDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="GetActiveRoles" FunctionName="B20WinDBModel.Store.usp_ActiveRoles">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="B20WinDBModel.usp_ActiveRoles_Result">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetUserByRegisterDate" FunctionName="B20WinDBModel.Store.usp_UserByRegisterDate">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="B20WinDBModel.usp_UserByRegisterDate_Result">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="RegisteredDate" ColumnName="RegisteredDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetRoleNameById" FunctionName="B20WinDBModel.Store.usp_GetRoleNameById" />
+  </EntityContainerMapping>
+</Mapping>

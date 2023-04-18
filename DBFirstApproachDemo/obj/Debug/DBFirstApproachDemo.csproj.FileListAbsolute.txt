@@ -1,0 +1,16 @@
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\bin\Debug\DBFirstApproachDemo.exe.config
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\bin\Debug\DBFirstApproachDemo.exe
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\bin\Debug\DBFirstApproachDemo.pdb
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\bin\Debug\EntityFramework.dll
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\bin\Debug\EntityFramework.xml
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\obj\Debug\DBFirstApproachDemo.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\obj\Debug\DBFirstApproachDemo.Form1.resources
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\obj\Debug\DBFirstApproachDemo.Properties.Resources.resources
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\obj\Debug\DBFirstApproachDemo.csproj.GenerateResource.cache
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\obj\Debug\DBFirstApproachDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\obj\Debug\DBFirstApproachDemo.csproj.CopyComplete
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\obj\Debug\DBFirstApproachDemo.exe
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\obj\Debug\DBFirstApproachDemo.pdb
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\DBFirstApproachDemo\obj\Debug\DBFirstApproachDemo.SearchRole.resources

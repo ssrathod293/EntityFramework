@@ -1,0 +1,16 @@
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\bin\Debug\CodeFirstUsingDB.exe.config
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\bin\Debug\CodeFirstUsingDB.exe
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\bin\Debug\CodeFirstUsingDB.pdb
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\bin\Debug\EntityFramework.dll
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\bin\Debug\EntityFramework.xml
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\obj\Debug\CodeFirstUsingDB.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\obj\Debug\CodeFirstUsingDB.Form1.resources
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\obj\Debug\CodeFirstUsingDB.Properties.Resources.resources
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\obj\Debug\CodeFirstUsingDB.csproj.GenerateResource.cache
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\obj\Debug\CodeFirstUsingDB.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\obj\Debug\CodeFirstUsingDB.csproj.CopyComplete
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\obj\Debug\CodeFirstUsingDB.exe
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\obj\Debug\CodeFirstUsingDB.pdb
+C:\Users\ssrat\source\repos\EntityFrameworkDemo\CodeFirstUsingDB\obj\Debug\CodeFirstUsingDB.Migrations.added_courses_table.resources
